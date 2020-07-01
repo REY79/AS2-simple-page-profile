@@ -1,9 +1,9 @@
 /* SCRIPTS.JS */
 
 function changePic() {
-      document.getElementById("profilePic").src = "images/cos2.webp";
+      document.getElementById("profilePic").src = "media/rey2.jpg";
     }
     
     function normalPic() {
-      document.getElementById("profilePic") .src = "images/cos1.webp";
+      document.getElementById("profilePic") .src = "media/rey1.jpg";
     }
